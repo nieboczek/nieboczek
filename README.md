@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Bocz3k__
-- 👀 I’m interested in GAMES
-- 🌱 I’m currently learning programing(code)
-- 💞️ I’m looking to collaborate on stone
-- 📫 How to reach me idk
-- 😶‍🌫️ I live in sky
+- 👀 I’m interested in: GAMES
+- 🌱 I’m currently learning: programing(code)
+- 💞️ I’m looking to collaborate on: stone
+- 📫 How to reach me: idk
+- 😶‍🌫️ I live in: sky
+- ⏭️ how to make a app: idk
