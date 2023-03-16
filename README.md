@@ -2,5 +2,5 @@
 - 👀 I’m interested in: GAMES
 - 🌱 I’m currently learning: programing(code)
 - 💞️ I’m looking to collaborate on: stone
-- 📫 How to reach me: Discord (NieBoczek#7885)
+- 📫 How to reach me: Discord
 - 😶‍🌫️ I live in: sky
