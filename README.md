@@ -2,6 +2,7 @@
 Ummmm, i don't have that much to say so, have some Hello Worlds!
 
 ## Hello Worlds
+### Java
 ```java
 public class Main {
   public static void main(String[] args) {
@@ -9,12 +10,15 @@ public class Main {
   }
 }
 ```
+### Python
 ```py
 print("Hello World!")
 ```
+### C#
 ```cs
 Console.WriteLine("Hello World!");
 ```
+### JavaScript
 ```js
 console.log("Hello World!");
 ```
