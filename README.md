@@ -1,5 +1,5 @@
 # Hi, It's Me!
-Ummmm, i don't have that much to say so, have some Hello Worlds!
+Ummmm, I don't have that much to say, so have some Hello Worlds!
 
 ## Hello Worlds
 ### Java
