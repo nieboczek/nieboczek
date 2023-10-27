@@ -22,4 +22,10 @@ Console.WriteLine("Hello World!");
 ```js
 console.log("Hello World!");
 ```
+### Rust
+```rust
+fn main() {
+  println!("Hello World!");
+}
+```
 That's all... I think.
