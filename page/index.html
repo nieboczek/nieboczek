@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>nieboczek (notbacon)</title>
+    <title>nieboczek</title>
     <style>
         body {
             background-image: radial-gradient(circle, rgba(255, 255, 255, 0.1) 1px, transparent 1px);
-			      background-size: 20px 20px;
+            background-size: 20px 20px;
             font-family: monospace, sans-serif;
             display: flex;
             justify-content: center;
@@ -16,15 +16,10 @@
             background-color: black;
             color: white;
         }
-        h1, h0 {
+        h1 {
             font-weight: bold;
         }
-        h0 {
-            font-size: 48px;
-            line-height: 1;
-        }
         .container {
-            min-width: 600px;
             max-width: 600px;
             padding: 20px;
         }
@@ -33,35 +28,98 @@
             align-items: center;
             gap: 10px;
         }
-        .space-top {
+        .gap-top {
             margin-top: 10px;
+        }
+        .pfp {
+            font-size: 48px;
+            font-weight: bold;
+            line-height: 1;
+            gap: 20px;
         }
         a {
             text-decoration: none;
-            color: rgb(0, 128, 255);
+            color: #0088ff;
             transition: color 0.3s ease;
         }
         a:hover {
-            color: rgb(0, 160, 255);
+            color: #00aaff;
+        }
+        table {
+            width: 100%;
+            max-width: 600px;
+            margin: auto;
+            border-collapse: collapse;
+            background-color: black;
+        }
+        th, td {
+            padding: 15px;
+            text-align: center;
+            border: 1px solid #323232;
+        }
+        tr:nth-child(even) {
+            background-color: #0f0f0f;
+        }
+        td {
+            font-size: 16px;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <!-- Cursed HTML part 1 -->
-        <h0>nieboczek</h0>
+        <div class="icon-text pfp">
+            <img height="48px" src="https://avatars.githubusercontent.com/u/106301320" alt="Icon">
+            nieboczek
+        </div>
         <h1>Hi, It's me!</h1>
         I do stuff, check it out!
         <br>
         <br>
-        <div class="icon-text space-top">
+        <div class="icon-text gap-top">
             <img height="32px" src="https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/636e0a6cc3c481a15a141738_icon_clyde_white_RGB.png" alt="Discord">
             @nieboczek
         </div>
-        <div class="icon-text space-top">
+        <div class="icon-text gap-top">
             <img height="41.6px" src="https://img.icons8.com/m_sharp/200/FFFFFF/github.png" alt="Discord">
             <a href="https://github.com/nieboczek">@nieboczek</a>
         </div>
+        <br>
+        <table>
+            <tr>
+                <th>DAY</th>
+                <th>ONLINE HOURS IN UTC</th>
+            </tr>
+            <tr>
+                <td>Monday</td>
+                <td>12:30 PM - 6:30 PM</td>
+            </tr>
+            <tr>
+                <td>Tuesday</td>
+                <td>12:30 PM - 6:30 PM</td>
+            </tr>
+            <tr>
+                <td>Wednesday</td>
+                <td>10:00 AM - 6:30 PM</td>
+            </tr>
+            <tr>
+                <td>Thursday</td>
+                <td>12:30 PM - 6:30 PM</td>
+            </tr>
+            <tr>
+                <td>Friday</td>
+                <td>10:00 AM - 6:30 PM</td>
+            </tr>
+            <tr>
+                <td>Saturday</td>
+                <td>6:30 AM - 6:30 PM</td>
+            </tr>
+            <tr>
+                <td>Sunday</td>
+                <td>6:30 AM - 6:30 PM</td>
+            </tr>
+        </table>
+        <div class="gap-top"></div>
+        *Sometimes stuff can happen and I can't be online
     </div>
 </body>
 </html>
